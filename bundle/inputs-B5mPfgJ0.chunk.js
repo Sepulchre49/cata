@@ -1,0 +1,1 @@
+import{a5 as e,m as t}from"./preset_utils-D3oseNFn.chunk.js";const a=()=>e(),i=()=>t({fieldName:"petUptime",label:"Pet Uptime (%)",labelTooltip:"Percent of the fight duration for which your pet will be alive.",percent:!0});export{a as P,i as a};

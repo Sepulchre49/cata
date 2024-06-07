@@ -1,0 +1,1 @@
+import"../../../index-41WNUqpB.chunk.js";import{P as e,T as s}from"../../../detailed_results-Cjavh4tx.chunk.js";import{S as t,P as n}from"../../../preset_utils-D3oseNFn.chunk.js";import{F as r}from"../../../sim-BovrSgSF.chunk.js";const i=new t,o=new n(e.FireMage,i);i.raid.setPlayer(s.nextEventID(),0,o),new r(document.body,o);

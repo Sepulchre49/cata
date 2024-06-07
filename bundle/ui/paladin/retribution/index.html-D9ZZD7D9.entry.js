@@ -1,0 +1,1 @@
+import"../../../index-41WNUqpB.chunk.js";import{P as s,T as t}from"../../../detailed_results-Cjavh4tx.chunk.js";import{S as n,P as e}from"../../../preset_utils-D3oseNFn.chunk.js";import{R as i}from"../../../sim-msQ69yhC.chunk.js";import"../../../inputs-tSgLa24_.chunk.js";const r=new n,o=new e(s.RetributionPaladin,r);r.raid.setPlayer(t.nextEventID(),0,o),new i(document.body,o);

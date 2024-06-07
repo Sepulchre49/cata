@@ -1,0 +1,1 @@
+import"../../../index-41WNUqpB.chunk.js";import{P as e,T as s}from"../../../detailed_results-Cjavh4tx.chunk.js";import{S as n,P as t}from"../../../preset_utils-D3oseNFn.chunk.js";import{B as o}from"../../../sim-Di3ukirO.chunk.js";const a=new n,i=new t(e.BloodDeathKnight,a);i.enableHealing(),a.raid.setPlayer(s.nextEventID(),0,i),new o(document.body,i);
